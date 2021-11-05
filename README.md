@@ -15,7 +15,7 @@
 👯 I’m looking to collaborate on data analytics and big data  
   
 
-❓ Ask me about anything related to MERN stack and related technologies  
+❓ Ask me about anything related to data analytics and big data 
   
 
 📫 How to reach me: amonteroposada@gmail.com  
