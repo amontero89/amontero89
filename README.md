@@ -1,12 +1,9 @@
 ### Hi there 👋
 
 
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 25%" />
-</div>  
   
 
-### <div align="center">I am a data lover 💜 and my best skill is to learn new things 🤓.</div>  
+### <div align="left">I am a data lover 💜 and my best skill is to learn new things 🤓.</div>  
   
 
 📚 I’m currently working on Pontificia Universidad Javeriana  
@@ -43,14 +40,6 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" />  
 </div>
-
-</td><td valign="top" width="33%">
-
-
-
-</td><td valign="top" width="33%">
-
-
 
 </td></tr></table>  
 
