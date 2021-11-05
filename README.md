@@ -21,7 +21,7 @@
 📫 How to reach me: amonteroposada@gmail.com  
   
 
-⚡ Fun fact: I use tabs over spaces  
+⚡ Fun fact: I love dogs and pizza!
   
 
 <br/>  
