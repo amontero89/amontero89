@@ -6,10 +6,10 @@
 ### <div align="left">I am a data lover 💜 and my best skill is to learn new things 🤓.</div>  
   
 
-📚 I’m currently working on Pontificia Universidad Javeriana  
+📚 I’m currently working at AWS as Technical Trainer 
   
 
-🌱I’m currently learning Apache Spark   
+🌱I’m currently learning Cloud Architecture
   
 
 👯 I’m looking to collaborate on data analytics and big data  
